@@ -1,5 +1,5 @@
 nodejs
-yarn
+yarn<2
 nb_conda_kernels >=2.2.0
 packaging
 jupyter_client
